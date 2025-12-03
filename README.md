@@ -1,45 +1,8 @@
-<div align="center">
-  
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=23D18B&background=0D111700&center=true&vCenter=true&width=435&lines=Hi+There!+%F0%9F%91%8B;I+am+Trần+Quang+Vinh;Data+Engineer;AI+Enthusiast" alt="Typing SVG" />
-  </a>
-  
-</div>
+### Hi there 👋
 
-<div align="center">
-  
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="30">
-   &nbsp; 
-  <a href="mailto:cao17012003@gmail.com">
-     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30"/>
-  </a>
-  &nbsp;
-  <a href="https://www.facebook.com/">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=Facebook&logoColor=white" height="30"/>
-  </a>
-  
-</div>
+I'm **Trần Quang Vinh**
 
-<hr/>
-
-<div align="center">
-  
-  <a href="https://github.com/cao17012003">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=cao17012003&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  </a>
-  
-  <a href="https://github.com/cao17012003">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cao17012003&layout=compact&theme=radical&hide=html,css,jupyter%20notebook"/>
-  </a>
-
-</div>
-
-<div align="center">
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cao17012003&theme=radical&hide_border=false" alt="streak stats" />
-</div>
-
-<hr/>
+---
 
 <div align="center">
   <h3>💻 Tech Stack</h3>
